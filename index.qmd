@@ -1,7 +1,6 @@
 ---
 title: "Caminho Marinho"
 format: html
-editor: visual
 engine: knitr
 ---
 
@@ -15,43 +14,36 @@ justify !important
 
 ```
 
-:::{.justify}
+::: justify
+**Quem somos e porquê somos**
 
-
-**Quem somos e porquê somos** 
-  
-  A Organização Não Governamental Caminho Marinho é fundada no ano de ++++ pelo professor Gustavo Martinez Souza, à época em seu doutorado em Oceanografia Biológica, com o intuito de atuar na *conservação de tartarugas marinhas* que utilizam o espaço dos Molhes da Barra como área de alimentação e forrageamento.  
-  No atual ano de 2023 já tivemos 112 animais observados, sendo eles provenientes de resgate de pesca acidental e de capturas intencionais realizadas pela equipe do projeto. 
-
+TESTE
+A Organização Não Governamental Caminho Marinho é fundada no ano de ++++ pelo professor Gustavo Martinez Souza, à época em seu doutorado em Oceanografia Biológica, com o intuito de atuar na *conservação de tartarugas marinhas* que utilizam o espaço dos Molhes da Barra como área de alimentação e forrageamento.\
+No atual ano de 2023 já tivemos 112 animais observados, sendo eles provenientes de resgate de pesca acidental e de capturas intencionais realizadas pela equipe do projeto.
 :::
-  
-  ![](b4fc1854-d7b8-4624-9b00-df1029c79276.jpg)
-  
+
+![](b4fc1854-d7b8-4624-9b00-df1029c79276.jpg)
 
 **O que fazemos?**
-  
-  Desde o início da nossa atuação, conseguimos a parceria de vários pescadores...
-  
-  *Veja maiores informações em nosso site oficial através do site abaixo:*
-  
-  [Caminho Marinho](https://www.caminhomarinho.org)
-  
-  A missão do projeto é criar uma conexão harmônica e sistêmica, com visão holística entre comunidade social, pescadores, universidade, comunidade pública, privada e governamental.
 
+Desde o início da nossa atuação, conseguimos a parceria de vários pescadores...
+
+*Veja maiores informações em nosso site oficial através do site abaixo:*
+
+[Caminho Marinho](https://www.caminhomarinho.org)
+
+A missão do projeto é criar uma conexão harmônica e sistêmica, com visão holística entre comunidade social, pescadores, universidade, comunidade pública, privada e governamental.
 
 **Onde atuamos?**
-  
-  ![](mapa-area-atuacao.jpg)
-  
-| Países | n. de voluntários | Tempo   | Função |
-|-------:|:------------------|---------|:------:|
-|  12   |  12                |    12   |    12  |
-|  123  |  123               |   123   |   123  |
-|  1    |    1               |     1   |     1  |
 
+![](mapa-area-atuacao.jpg)
 
+| Países | n\. de voluntários | Tempo | Função |
+|-------:|:-------------------|-------|:------:|
+|     12 | 12                 | 12    |   12   |
+|    123 | 123                | 123   |  123   |
+|      1 | 1                  | 1     |   1    |
 
-# Análises 
+# Análises
 
-$A = \pi*r^{2}$ 
-
+$A = \pi*r^{2}$
