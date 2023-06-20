@@ -1,26 +1,57 @@
 ---
-title: "Untitled"
+title: "Caminho Marinho"
 format: html
 editor: visual
+engine: knitr
 ---
 
-## Quarto
+```{css, echo = FALSE}
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+.justify {
+ 
+  text-align:
+justify !important
+}
 
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
 ```
 
-You can add options to executable code like this
+:::{.justify}
 
-```{r}
-#| echo: false
-2 * 2
-```
 
-The `echo: false` option disables the printing of code (only output is displayed).
+**Quem somos e porquê somos** 
+  
+  A Organização Não Governamental Caminho Marinho é fundada no ano de ++++ pelo professor Gustavo Martinez Souza, à época em seu doutorado em Oceanografia Biológica, com o intuito de atuar na *conservação de tartarugas marinhas* que utilizam o espaço dos Molhes da Barra como área de alimentação e forrageamento.  
+  No atual ano de 2023 já tivemos 112 animais observados, sendo eles provenientes de resgate de pesca acidental e de capturas intencionais realizadas pela equipe do projeto. 
+
+:::
+  
+  ![](b4fc1854-d7b8-4624-9b00-df1029c79276.jpg)
+  
+
+**O que fazemos?**
+  
+  Desde o início da nossa atuação, conseguimos a parceria de vários pescadores...
+  
+  *Veja maiores informações em nosso site oficial através do site abaixo:*
+  
+  [Caminho Marinho](https://www.caminhomarinho.org)
+  
+  A missão do projeto é criar uma conexão harmônica e sistêmica, com visão holística entre comunidade social, pescadores, universidade, comunidade pública, privada e governamental.
+
+
+**Onde atuamos?**
+  
+  ![](mapa-area-atuacao.jpg)
+  
+| Países | n. de voluntários | Tempo   | Função |
+|-------:|:------------------|---------|:------:|
+|  12   |  12                |    12   |    12  |
+|  123  |  123               |   123   |   123  |
+|  1    |    1               |     1   |     1  |
+
+
+
+# Análises 
+
+$A = \pi*r^{2}$ 
+
