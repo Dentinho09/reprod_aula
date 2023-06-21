@@ -53,7 +53,7 @@ Para maiores informações, consultar o site oficial no link abaixo:
 
 
 :::{.justify}
-## Mestrado paraquedas que ainda não sei exatamente o que irei fazer
+## Mestrado paraquedas 
 
 <br>
 
@@ -66,7 +66,7 @@ Tudo no mestrado ainda segue com ar de mistério para mim, mas sei que o objetiv
 
 Como tudo ainda está em construção..., mas como já se desenvolve?:
 
-- Molhes 
+- Molhes e Itapirubá
 
 <br>
 
@@ -84,14 +84,17 @@ Como tudo ainda está em construção..., mas como já se desenvolve?:
 
 Através de uma abordagem bayesiana, haverá o esforço de tentar avaliar a abundância relativa de populações com suas dinâmicas temporais e anuais na praia do Cassino, aplicado a tartarugas verdes (*Chelonia midas*), espécie predominante observada por aqui.
 
-![Wandinha](wandinha.png)
+![](wandinha.png)
 :::
 
 ## Ciclo de vida das tartarugas marinhas
 
-![Ciclo de vida](ciclodevida.png)
-:::{.justify}
+
+![](ciclodevida.png)
+
 ## Trabalho semalhante no Rio de Janeiro
+
+:::{.justify}
 
  <br>
  
@@ -157,9 +160,25 @@ Consequentemente, as distribuições marginais a posteriori para 𝜃𝑖 segue 
 
 Como a distribuição a priori considera quantos ninhos são esperados caso todas as praias tivessem a mesma probabilidade, uma variação para cima (ou para baixo) na probabilidade a posteriori devido ao número de ninhos registrados indicaria maior (ou menor) densidade de ninhos de tartaruga marinha. Assim, as diferenças entre as probabilidades a priori e a posteriori foram utilizadas para avaliar a tendência de densidade de cada trecho de praia.
 
-##
 
-Add as imagens das distribuições e das probas de desovas
+
+## Distribuição a *priori* e *posteriori* no Rio de Janeiro
+
+:::{.justify}
+
+![](distribuicoesnorj.png)
+
+:::
+
+## Probabilidades de desovas
+
+:::{.justify}
+
+![](probadedesovanorj.png)
+
+:::
+
+
 
 
 
