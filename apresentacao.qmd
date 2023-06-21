@@ -1,7 +1,13 @@
 ---
-title: "**Caminho Marinho**
+title: " **Caminho Marinho**
 
-*Conservação e estimativa de abundância relativa de tartarugas marinhas*"
+<br>
+
+*Abundância relativa de tartarugas marinhas*
+
+<br>
+
+Letícia Verônica dos Santos"
 format: revealjs
 engine: knitr
 ---
@@ -46,13 +52,13 @@ O projeto se torna local em **2013**, com o intuito de através de uma convivên
 
 ##
 
-![Educação Ambiental](ea_cm.jpg)
+![Atividade de EA na base do Projeto no Cassino](ea_cm.jpg){fig-align="left"}
 
 ## Atividades de soltura
 
 
 
-![Soltura](liberacao_cm.jpg)
+![Atividade de soltura ma praia do Cassino](liberacao_cm.jpg){fig-align="left"}
 
 ##
 
