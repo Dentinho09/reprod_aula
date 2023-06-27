@@ -2,8 +2,8 @@
 title: z
 subtitle: A Short Subtitle
 author:
-  - name: Alice Anonymous
-    email: alice@example.com
+  - name: Letícia Verônica dos Santos
+    email: leticia.veronica@outlook.com
     affiliations: 
         - id: some-tech
           name: Some Institute of Technology
