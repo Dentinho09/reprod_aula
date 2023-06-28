@@ -44,18 +44,18 @@ ZUUR, A. F.; SAVELIEV, A. A.; IENO, E. N. A Begginner’s Guide to Generalised A
 
 A equação da distribuição de Poisson, assumindo ‘x’ tendendo ao infinito e ‘P’ tendendo a zero, é descrita pela fórmula abaixo:
 
-$$P(x=k)=e^{-u}*u^k  
-/k!$$
+$$P(x=k)=\frac{e^{-\mu}*\mu^k}  
+{k!}$$
 
 Onde, x é a variável resposta do número de cabeças avistadas que assume o valor k, 'u' é o valor da taxa média de ocorrência dessas avistagens de cabeças e 'e' é o número de Euler, que vale aproximadamente 2,71828… 
 
 Para um exemplo em que se teste a probabilidade de avistagem de três tartarugas^, em avistagens que apresentam taxa média de 2.28571429, temos:
 
-$P(x=3)=e^{-2.28571429}*2.28571429^3/3!$ 
+$P(x=3)=\frac{e^{-2.28571429}*2.28571429^3}{3!}$ 
 
-$P(x=3)=0,101701392*11,941691/3*2*1$
+$P(x=3)=\frac{0,101701392*11,941691}{3*2*1}$
 
-$P(x=3)=1,2144866/6$
+$P(x=3)=\frac{1,2144866}{6}$
 
 P(x=3) = 0,202414...
 
