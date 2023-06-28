@@ -40,24 +40,26 @@ ZUUR, A. F.; SAVELIEV, A. A.; IENO, E. N. A Begginner’s Guide to Generalised A
 
 <-
 
+# Equations
 
-## Quarto
+A equação da distribuição de Poisson, assumindo ‘x’ tendendo ao infinito e ‘P’ tendendo a zero, é descrita pela fórmula abaixo:
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+$$P(x=k)=e^{-u}*u^k  
+/k!$$
 
-## Running Code
+Onde, x é a variável resposta do número de cabeças avistadas que assume o valor k, 'u' é o valor da taxa média de ocorrência dessas avistagens de cabeças e 'e' é o número de Euler, que vale aproximadamente 2,71828… 
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+Para um exemplo em que se teste a probabilidade de avistagem de três tartarugas^, em avistagens que apresentam taxa média de 2.28571429, temos:
 
-```{r}
-1 + 1
-```
+$P(x=3)=e^{-2.28571429}*2.28571429^3/3!$ 
 
-You can add options to executable code like this
+$P(x=3)=0,101701392*11,941691/3*2*1$
 
-```{r}
-#| echo: false
-2 * 2
-```
+$P(x=3)=1,2144866/6$
 
-The `echo: false` option disables the printing of code (only output is displayed).
+P(x=3) = 0,202414...
+
+Ou seja, a probabilidade de avistar três tartarugas é de 20,24%.
+
+
+
