@@ -1,0 +1,23 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.28)  28 JUN 2023 15:32
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"C:/Users/letic/OneDrive/Área de Trabalho/Reprodutibilidade/repro2/reprod_aula/teste4.tex"
+(c:/Users/letic/OneDrive/Área de Trabalho/Reprodutibilidade/repro2/reprod_aula/teste4.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-16>
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.3 \usepackage[T1]
+                   {fontenc} 
+Here is how much of TeX's memory you used:
+ 18 strings out of 477663
+ 697 string characters out of 5828612
+ 1851763 words of memory out of 5000000
+ 20628 multiletter control sequences out of 15000+600000
+ 513387 words of font info for 34 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 13i,0n,16p,181b,9s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+!  ==> Fatal error occurred, no output PDF file produced!
