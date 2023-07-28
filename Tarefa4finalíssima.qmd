@@ -1,0 +1,121 @@
+---
+title: "Substituição da farinha e do óleo de peixe por farinha e óleo de origem vegetal 
+em rações utilizadas na fase de engorda do camarão-branco-do-pacífico 
+Litopenaeus vannamei, em sistemas de bioflocos"
+format:
+  jasa-pdf:
+    keep-tex: true  
+    journal:
+      blinded: false
+  jasa-html: default
+date: last-modified
+author:
+  - name: M.B. Tesser
+    acknowledgements: | 
+      CNPq, Capes, INPE
+    affiliations:
+      - name:  Universidade Federal do Rio Grande ˗ Rio Grande, RS
+        department: Instituto de Oceanografia
+  - name: H.N. Camaño
+      - name:  Universidade Federal do Rio Grande ˗ Rio Grande, RS
+        department: Instituto de Oceanografia
+abstract: 
+   Este trabalho teve como objetivo avaliar o efeito da substituição da farinha e do óleo de peixe pelo 
+concentrado proteico de soja e óleo de soja, na sobrevivência, no crescimento e na composição corporal
+dos camarões (Litopenaeus vannamei) produzidos em sistema de bioflocos (BFT). Formulando cinco dietas com diferentes níveis e porcentagens de substituição de farinha e óleo de peixe por concentrados proteicos vegetais. o experimento durou 49 dias. O tratamento de cem por cento de substituição apresentou menor taxa de crescimento específico. O presente resultado sugere que, nas dietas para camarões criados em sistema bioflocos, a farinha e o óleo de peixe possam ser substituídos em até setenta e cinco por cento por concentrado proteico de soja e óleo de soja, sem prejudicar o desenvolvimento dos animais.
+keywords:
+  - Camarão marinho
+  - Farinha e óleo de peixe
+  - Concentrado proteico de soja
+  - Óleo de soja
+bibliography: bibliography.bib  
+---
+
+## Introduction {#sec-intro}
+
+A farinha e o óleo de peixe são os principais ingredientes nas formulações de rações para camarões marinhos. A primeira é fonte de proteína de alta qualidade, apresenta fácil digestão e bom perfil de aminoácidos, enquanto o segundo é a única fonte lipídica disponível comercialmente que apresenta o ácido eicosapentaenoico (EPA) e o ácido docosahexaenoico (DHA) (Nutrient..., 2011).
+
+O crescimento da indústria aquícola está diretamente relacionado ao aumento na produção de alimento para peixes e camarões, e, portanto, há a necessidade de maior utilização de farinha de peixe e óleo de peixe. No entanto, nas últimas décadas, a produção mundial desses ingredientes encontra-se estagnada (The State..., 2016). Assim, a busca por alimentos alternativos que possam reduzir ou eliminar a farinha e o óleo de peixe das dietas para aquicultura é fundamental não só para dar sustentabilidade ao setor como também pelos elevados custos dessas matériasprimas (Shepherd e Jackson, 2013).O concentrado proteico de soja (CPS) apresenta como características elevado valor de proteína bruta (65% aproximadamente), bem como reduzido valor de carboidratos solúveis e de fatores antinutricionais (Sá et al., 2013). Por isso, é considerado um potencial substituto da farinha de peixe em rações para crustáceos e peixes (Gatlin et al., 2007; Sookying e Davis, 2012). Por outro lado, o óleo de soja é rico em ácido linoleico (18:2 n-6) e tem sido introduzido para substituir parcialmente o óleo de peixes em L. vannamei (Zhou et al., 2007). O sistema de bioflocos (BFT) é uma técnica sustentável utilizada para a produção de camarões com zero troca de água (Avnimelech et al., 2008). Os bioflocos gerados dentro do sistema de criação são consumidos pelos camarões aportando nutrientes a eles (Wasielesky et al., 2006). Ainda, Xu et al. (2012) demonstraram que é possível a redução da concentração de proteína bruta de 35% para 25% da ração quando juvenis de L. vannamei são criados em sistema de bioflocos, o que revela que os bioflocos contribuem com proteína para os camarões. Portanto, o objetivo deste estudo foi avaliar os efeitos da substituição parcial e total concomitantemente da farinha e do óleo de peixe por concentrado proteico e óleo de soja no desempenho dos camarões criados em sistemas BFT.
+
+![*Litopenaeus vannamei* espécie analisada no trabalho.](litopenaeus.jpg){#fig-first width="3in"}
+
+| one  | two  | three | four | five |
+|------|------|-------|------|------|
+| 1.23 | 3.45 | 5.00  | 1.21 | 3.41 |
+| 1.23 | 3.45 | 5.00  | 1.21 | 3.42 |
+| 1.23 | 3.45 | 5.00  | 1.21 | 3.43 |
+
+: D-optimality values for design X under five different scenarios. {#tbl-one}
+
+-   Note that figures and tables (such as @fig-first and @tbl-one) should appear in the paper, not at the end or in separate files.
+-   In document front matter, you may set the key `blinded` under a `journal` key to hide the authors and acknowledgements, producing the required anonymized version.
+-   Remember that in the anonymized version, you should not identify authors indirectly in the text. That is, don't say "In Smith et. al. (2009) we showed that ...". Instead, say "Smith et. al. (2009) showed that ...".
+-   These points are only intended to remind you of some requirements. Please refer to the instructions for authors at <http://amstat.tandfonline.com/action/authorSubmission?journalCode=uasa20&page=instructions#.VFkk7fnF_0c>
+-   For more about ASA style, please see <https://files.taylorandfrancis.com/asa-style-guide.pdf>.
+-   If you have supplementary material (e.g., software, data, technical proofs), identify them in the section below. In early stages of the submission process, you may be unsure what to include as supplementary material. Don't worry---this is something that can be worked out at later stages.
+
+## Methods {#sec-meth}
+
+O estudo foi realizado no Laboratório de Carcinocultura, pertencente ao Instituto de Oceanografia -- Furg. Com o objetivo de evitar alterações nos parâmetros de qualidade de água, bem como que ocorresse formação diferenciada de bioflocos entre os diferentes tratamentos, optou-se por trabalhar com um sistema de recirculação de água seguindo a metodologia descrita por Fóes et al. (2011). O sistema era composto por 15 tanques circulares de fibra de vidro com 150 litros de volume útil, conectados a um tanque matriz com área de 10m² e capacidade de 5.000 litros. Os juvenis de L. vannamei (2,93±0,83g) foram estocados com 300 camarões/m2 . A água era bombeada do tanque matriz para as diferentes unidades experimentais, com vazão de 1,25L/mim, e o retorno das unidades experimentais ao tanque matriz ocorreu por gravidade.
+
+![Diferentes dietas testadas no experimento](tabela1.png)
+
+## Verifications {#sec-verify}
+
+::: {add-textheight=".5in"}
+Os resultados dos parâmetros de qualidade de água não apresentaram diferenças estatísticas entre os tratamentos e, dessa forma, foram agrupados. Os valores médios da temperatura foram de 28±1°C, o oxigênio dissolvido foi de 5,80±0,49mg/L, o pH 7,8±0,2, a salinidade 33‰±1, a alcalinidade 150±13mg/L CaCO3, a amônia total N-AT 0,06±0,12mg/L, o nitrito NNO2 3,12±5,64mg/L, o nitrato N-NO3 75,60±35,85mg/L, o fosfato P-PO³4 3,39±1,10mg/L, e os sólidos suspensos totais foram de SST 571,0±140,7mg/L.Os valores médios dos indicadores do desempenho zootécnico dos camarões são apresentados na Tab. 2. Não foi evidenciada diferença significativa (P\>0,05) para peso médio final, ganho em peso e ganho em peso semanal, para a taxa de conversão alimentar e sobrevivência entre os tratamentos. No entanto, a taxa de crescimento específico apresentou menor valor (P\<0,05) para os camarões alimentados com 100% de substituição da farinha e do óleo de peixe, quando comparados àqueles dos demais tratamentos. Os resultados de biomassa final apresentaram diferenças significativas entre os tratamentos. O tratamento com 100% de substituição apresentou resultado de final de biomassa estatisticamente menor do que os camarões do tratamento sem substituição e com 25% de substituição, enquanto os camarões dos tratamentos 50 e 75% de substituição apresentaram valores intermediários.
+
+The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. **With this spacing we have 25 lines per page.** The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog.
+:::
+
+::: {add-textheight=".2in"}
+The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog.
+:::
+
+## Conclusion {#sec-conc}
+
+O tratamento de cem por cento de substituição apresentou menor taxa de crescimento específico. O presente resultado sugere que, nas dietas para camarões criados em sistema bioflocos, a farinha e o óleo de peixe possam ser substituídos em até setenta e cinco por cento por concentrado proteico de soja e óleo de soja, sem prejudicar o desenvolvimento dos animais.
+
+## Disclosure statement
+
+The authors have the following conflicts of interest to declare (or replace with a statement that no conflicts of interest exist).
+
+## Data Availability Statement
+
+Deidentified data have been made available at the following URL: XX.
+
+## Supplementary Material {.supplementary}
+
+Title:
+
+:   Brief description. (file type)
+
+R-package for MYNEW routine:
+
+:   R-package MYNEW containing code to perform the diagnostic methods described in the article. The package also contains all datasets used as examples in the article. (GNU zipped tar file)
+
+HIV data set:
+
+:   Data set used in the illustration of MYNEW method in @sec-verify (.txt file).
+
+## BibTeX
+
+We encourage you to use BibTeX. If you have, please feel free to use the package natbib with any bibliography style you're comfortable with. The .bst file agsm has been included here for your convenience.

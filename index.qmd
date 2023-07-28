@@ -89,5 +89,5 @@ Tarefa executada nessa página geral.
 
 ### Tarefa 4 
 
-[Adequação do artigo ao modelo JASA](tarefa4.html)
+[Adequação do artigo ao modelo JASA](Tarefa4finalíssima.qmd)
 

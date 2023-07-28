@@ -23,20 +23,17 @@ author:
 abstract: |
   Este trabalho teve como objetivo avaliar o efeito da substituição da farinha e do óleo de peixe pelo 
 concentrado proteico de soja e óleo de soja, na sobrevivência, no crescimento e na composição corporal
-dos camarões (Litopenaeus vannamei) produzidos em sistema de bioflocos (BFT). Foram formuladas 
-cinco dietas, isoproteicas e isoenergéticas, com diferentes níveis de substituição da farinha e do óleo de 
-peixe por concentrado proteico de soja e óleo de soja, sendo os tratamentos designados como: 0% (sem 
-substituição), 25%, 50%, 75% e 100%. As rações foram elaboradas para conter aproximadamente 35% de 
-proteína e 8% de lipídios. O experimento foi conduzido durante 49 dias, com juvenis com peso inicial de
-2,93±0,83g, em sistema de bioflocos (BFT). Não foram encontradas diferenças significativas entre os 
-tratamentos até 75% de substituição para as variáveis de ganho de peso, conversão alimentar e 
-sobrevivência. O tratamento de 100% de substituição apresentou menor taxa de crescimento específico. O 
+dos camarões (Litopenaeus vannamei) produzidos em sistema de bioflocos (BFT). Formulando cinco dietas com diferentes níveis e porcentagens de substituição de farinha e óleo de peixe por concentrados proteicos vegetais. o experimento durou 49 dias. O tratamento de cem por cento de substituição apresentou menor taxa de crescimento específico. O 
 presente resultado sugere que, nas dietas para camarões criados em sistema bioflocos, a farinha e o óleo 
-de peixe possam ser substituídos em até 75% por concentrado proteico de soja e óleo de soja, sem 
+de peixe possam ser substituídos em até setenta e cinco por cento por concentrado proteico de soja e óleo de soja, sem 
 prejudicar o desenvolvimento dos animais.
-keywords:
-  - camarão marinho, farinha e óleo de peixe, concentrado proteico de soja, óleo de soja
-  - that do not appear in the title
+
+keywords: 
+- camarão marinho 
+- farinha e óleo de peixe
+- concentrado proteico de soja
+- óleo de soja
+
 bibliography: bibliography.bib  
 ---
 
