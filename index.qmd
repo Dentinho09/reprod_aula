@@ -82,10 +82,10 @@ Tarefa executada nessa página geral.
 
 ## Tarefa 3 
 
-[Artigo sobre diferentes alimentações em sistemas de bioflocos](tarefa3.html)
-[Apresentação sobre o artigo](apres_tar3.html)
+[Artigo sobre diferentes alimentações em sistemas de bioflocos](tarefa3.qmd)
+[Apresentação sobre o artigo](apres_tar3.qmd)
 
 ## Tarefa 4 
 
-[Adequação do artigo ao modelo JASA](jasa.html)
+[Adequação do artigo ao modelo JASA](tarefa4final.qmd)
 
