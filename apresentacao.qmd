@@ -105,8 +105,26 @@ Como tudo ainda está em construção..., mas como já se desenvolve?:
 
 Através de uma abordagem bayesiana, haverá o esforço de tentar avaliar a abundância relativa de populações com suas dinâmicas temporais e anuais na praia do Cassino, aplicado a tartarugas verdes (*Chelonia midas*), espécie predominante observada por aqui.
 
-![](wandinha.png)
 :::
+
+
+## Tabela
+
+:::{.justify}
+
+Com a ajuda de alguns voluntário, estagiários e colaboradores, o projeto está sendo impulsionado com força nesse ano de 2023, abaixo temos a relação de alguns desses colaboradorxs:
+
+| Local       | Voluntários | Estagiários | Colaboradores |
+|------------:|:------------|-------------|:-------------:|
+| Brasil      |     25      |      14     |        3      |
+| USA         |      7      |       0     |        1      |
+| Alemanha    |      1      |       1     |        0      |
+| França      |      3      |       1     |        0      |
+| Reino Unido |      1      |       0     |        0      |
+| Cuba        |      0      |       0     |        1      |
+
+:::
+
 
 ## Ciclo de vida das tartarugas marinhas
 
@@ -129,6 +147,19 @@ Um trabalho aplicado na espécie *Caretta caretta* trouxe algumas elucidações 
 Em ofício de 2015 do Centro TAMAR-ICMBio, sobre informações complementares das desovas de tartarugas marinhas no litoral do Estado do Rio de Janeiro, registrou 5.133 ninhos em 99 km monitorados entre 2011 e 2014. O município de Campos dos Goytacazes apresentou a maior densidade anual (22,3 ninhos por km), quando foram registrados 2.067 ninhos em 31 km monitorados (40,26% dos ninhos registrados no Estado), enquanto o município de São João da Barra, apresentando uma média anual de 10,6 ninhos por km, quando foram registrados 1.022 ninhos em 32 km monitorados (19,9% dos ninhos registrados no Estado.
 
 :::
+
+## Gráfico 
+
+```{r}
+
+#| layout-ncol: 2
+#| fig-cap: 
+#|   - "Speed and Stopping Distances of Cars"
+#|   - "Vapor Pressure of Mercury as a Function of Temperature"
+
+plot(cars)
+plot(pressure)
+```
 
 :::{.justify}
 
@@ -163,7 +194,7 @@ Onde j representa cada ninho ( j = 1, 2, …, n)
 
 Portanto, 𝑋𝑗 segue uma distribuição Multinomial com parâmetro Θ=(θ1,θ2,θ3,…,θ18), onde θ𝑖≥0 representa a probabilidade que um ninho seja oriundo do trecho de praia i; e ∑𝜃𝑖18𝑖=1=1, onde apenas os ninhos registrados nos 18 trechos de praia monitorados foram considerados.
 
-A probabilidade a priori para Θ foi modelada através de uma distribuição de Dirichlet (Gelman et al., 1895),
+A probabilidade a priori para Θ foi modelada através de uma distribuição de Dirichlet (Gelman et al., 1895 ),
 $$Θ~Dirichlet(𝐴=(𝛼1,𝛼2,,𝛼3,…,𝛼18 ))$$
 :::
 

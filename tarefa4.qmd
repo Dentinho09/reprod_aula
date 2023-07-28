@@ -4,6 +4,19 @@ format: pdf
 editor: visual
 ---
 
+# Instalar y cargar la biblioteca "png"
+install.packages("png")
+library(png)
+
+# Leer la imagen PNG
+img <- readPNG("ruta_de_la_imagen/mi_imagen.png")
+
+# Guardar la imagen en un archivo PDF
+pdf("ruta_del_archivo/mi_imagen.pdf")
+plot(1, type = "n", xlim = c(0, 1), ylim = c(0, 1), xlab = "", ylab = "")  # Crear un lienzo en blanco
+rasterImage(img, 0, 0, 1, 1)  # Dibujar la imagen en el lienzo
+dev.off()
+
 quarto use template quarto-journals/jasa
 
 quarto add quarto-journals/jasa
