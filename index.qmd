@@ -68,7 +68,7 @@ Ainda em desenvolvimento, mas realiza-se resgates ou capturas intencionais, biom
 
 ![Atividade de soltura de tartarugas no Cassino](liberacao_cm.jpg){fig-align="center"}
 
-huashsaushausah
+
 
 # Tarefas 
 
@@ -82,12 +82,12 @@ Tarefa executada nessa página geral.
 
 ## Tarefa 3 
 
-[Artigo sobre diferentes alimentações em sistemas de bioflocos](tarefa3.qmd)
+[Artigo sobre diferentes alimentações em sistemas de bioflocos](tarefa3.html)
 
 
-[Apresentação sobre o artigo](apres_tar3.qmd)
+[Apresentação sobre o artigo](apres_tar3.html)
 
 ## Tarefa 4 
 
-[Adequação do artigo ao modelo JASA](tarefa4.qmd)
+[Adequação do artigo ao modelo JASA](tarefa4.html)
 
