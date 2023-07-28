@@ -8,16 +8,16 @@ format:
   jasa-html: default
 date: last-modified
 author:
-  - name: Author 1
+  - name: M.B. Tesser
     acknowledgements: | 
       The authors gratefully acknowledge _please remember to list all relevant funding sources in the non-anonymized (unblinded) version_.
     affiliations:
-      - name: University of XXX
-        department: Department of YYY
-  - name: Author 2
+      - name: Universidade Federal do Rio Grande ˗ Rio Grande, RS
+        department: Instituto de Oceanografia 
+  - name: H.N. Camaño
     affiliations:
-      - name: University of WWW
-        department: Department of ZZZ
+      - name:  Universidade Federal do Rio Grande ˗ Rio Grande, RS
+        department: Aluno de pós graduação pelo Instituto de Oceanografia 
 abstract: |
   The text of your abstract. 200 or fewer words.
 keywords:

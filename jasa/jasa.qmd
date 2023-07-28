@@ -16,18 +16,11 @@ author:
     affiliations:
       - name: Universidade Federal do Rio Grande ˗ Rio Grande, RS
         department: Instituto de Oceanografia 
-  - name: A.P. Cardozo
-    affiliations:
-      - name: Universidade Federal do Rio Grande ˗ Rio Grande, RS
-        department: Instituto de Oceanografia 
   - name: H.N. Camaño
     affiliations:
       - name: Universidade Federal do Rio Grande ˗ Rio Grande, RS
         department: Aluno de pós graduação pelo Instituto de Oceanografia 
-  - name: W. Wasielesky
-    affiliations:
-      - name: Universidade Federal do Rio Grande ˗ Rio Grande, RS
-        department: Instituto de Oceanografia 
+ 
         
         
 abstract: |
