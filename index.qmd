@@ -70,24 +70,24 @@ Ainda em desenvolvimento, mas realiza-se resgates ou capturas intencionais, biom
 
 
 
-# Tarefas 
+## Tarefas 
 
-## Tarefa 1 
+### Tarefa 1 
 
 Tarefa executada nessa página geral.
 
-## Tarefa 2 
+### Tarefa 2 
 
 [Minha apresentação](apresentacao.html)
 
-## Tarefa 3 
+### Tarefa 3 
 
 [Artigo sobre diferentes alimentações em sistemas de bioflocos](tarefa3.html)
 
 
 [Apresentação sobre o artigo](apres_tar3.html)
 
-## Tarefa 4 
+### Tarefa 4 
 
 [Adequação do artigo ao modelo JASA](tarefa4.html)
 
