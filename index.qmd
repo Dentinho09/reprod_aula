@@ -74,7 +74,7 @@ Ametodologia encontra-se ainda em desenvolvimento, mas realiza-se resgates ou ca
 
 ### Tarefa 1 
 
-Tarefa executada nessa página geral do site e incluso na apresentação da tarefa 2.
+[Inserindo link, tabela, imagem e gráfico](tarefa1.html)
 
 ### Tarefa 2 
 
