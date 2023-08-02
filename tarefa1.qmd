@@ -1,0 +1,53 @@
+---
+title: "Tarefa 1"
+format: html
+editor: visual
+---
+
+**The Beginning**
+
+A disciplina de Reprodutibilidade Científica no R foi de grandes descobertas e esclarecimento de várias carências do meu saber em progração.
+
+**Trabalhos da Disciplina**
+
+A maioria dos trabalhos entregues são referentes às atividades desenvolvidas através da ONG Caminho Marinho, que pode maiores informações obtidas através do link do site oficial do [Caminho Marinho](https://www.caminhomarinho.org)
+
+**Co Volunteer**
+
+::: justify
+Com a ajuda de alguns voluntários, estagiários e colaboradores, o projeto está sendo impulsionado com força nesse ano de 2023, na tabela abaixo temos a relação de alguns desses colaboradorxs:
+
+|       Local | Voluntários | Estagiários | Colaboradores |
+|------------:|:------------|-------------|:-------------:|
+|      Brasil | 25          | 14          |       3       |
+|         USA | 7           | 0           |       1       |
+|    Alemanha | 1           | 1           |       0       |
+|      França | 3           | 1           |       0       |
+| Reino Unido | 1           | 0           |       0       |
+|        Cuba | 0           | 0           |       1       |
+:::
+
+**Ambientometria**
+
+A análise ambientométrica se dará a partir de modelos aditivos não generalizados, mas como exemplo temos para cada ninho (n) registrado por temporada foi categorizado em um dos 18 trechos de praia (i) monitorados. Assim, cada ninho (n) foi caracterizado por um vetor aleatório: $$𝑋𝑗=(𝑥𝑗1,𝑥𝑗12,𝑥𝑗3,…,𝑥𝑗18 )$$
+
+
+Para uma distribuição Multinomial com parâmetro Θ=(θ1,θ2,θ3,...,θ18), onde θ𝑖≥0 representa a probabilidade que um ninho seja oriundo do trecho de praia i; e ∑𝜃𝑖18𝑖=1=1, onde apenas os ninhos registrados nos 18 trechos de praia monitorados foram considerados.
+
+A probabilidade a priori para Θ foi modelada através de uma distribuição de Dirichlet (Gelman et al., 1895 ), $$Θ~Dirichlet(𝐴=(𝛼1,𝛼2,,𝛼3,…,𝛼18 ))$$ 
+
+**Uma imagem** 
+![As primeiras a gente não esquece, essa é a Wandinha, resgatada em uma quarta-feira](wandinha.png){fig-align="center"}
+
+**Gráfico**
+
+```{r}
+
+#| layout-ncol: 2
+#| fig-cap: 
+#|   - "Speed and Stopping Distances of Cars"
+#|   - "Vapor Pressure of Mercury as a Function of Temperature"
+
+plot(cars)
+plot(pressure)
+```
